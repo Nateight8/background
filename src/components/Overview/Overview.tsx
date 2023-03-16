@@ -1,6 +1,5 @@
 import Image from "next/image";
 import React from "react";
-import TextScene from "../threejs/TextScene";
 import Experts from "./Experts";
 
 type Props = {};

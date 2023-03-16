@@ -6,7 +6,6 @@ import Projects from "@/components/projects/Projects";
 import Overview from "@/components/Overview/Overview";
 import Quote from "@/components/Quote/Quote";
 import Experts from "@/components/Overview/Experts";
-import TextScene from "@/components/threejs/TextScene";
 
 const inter = Inter({ subsets: ["latin"] });
 
