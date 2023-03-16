@@ -7,7 +7,6 @@ import {
 
 import { Canvas } from "@react-three/fiber";
 import React, { Suspense } from "react";
-import Construction from "./Construction";
 
 type Props = {};
 
